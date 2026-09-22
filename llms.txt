@@ -1,0 +1,68 @@
+# MachForge
+
+> MachForge is an engineering-led CNC manufacturing coordination studio in Shenzhen, providing DFM review, CNC prototyping, and low-volume production support for robotics, UAV, and hardware teams.
+
+MachForge coordinates CNC manufacturing for metal and plastic components from engineering prototypes to low-volume production through vetted manufacturing partners in Shenzhen and the Pearl River Delta, China.
+
+The focus is on manufacturability, DFM review, process and tolerance decisions, supplier coordination, quality control, production follow-up, and reducing manufacturing risk before production begins.
+
+Services include:
+
+- CNC milling and turning
+- DFM review and manufacturability support
+- CNC prototyping
+- Low-volume production
+- Supplier coordination and production follow-up
+- Quality control and pre-shipment inspection
+- Surface finishing
+
+Typical manufacturing capabilities:
+
+- 3-axis, 4-axis, and 5-axis CNC machining
+- Prototype quantities from 1 piece
+- Low-volume production
+- Laser cutting and marking
+- Surface treatments including anodizing, PVD, sandblasting, and electropolishing
+
+Typical materials:
+
+- Aluminum: 6061, 7075
+- Stainless steel: 304, 316L
+- Brass and copper
+- Engineering plastics
+- Titanium and other materials on request
+
+Typical industries and use cases:
+
+- Robotics
+- UAVs
+- Hardware products
+- Engineering prototypes
+- Low-volume hardware production
+- Hardware startups needing CNC prototypes before production
+- Engineering teams seeking DFM review before machining
+- Robotics and UAV teams coordinating precision components in China
+
+Location: Shenzhen, China — supporting projects worldwide.
+
+Contact: grant@machforge.xyz for technical inquiries and quotation requests.
+
+## Primary Resources
+
+- [MachForge website](https://www.machforge.xyz/): Official website for MachForge's CNC manufacturing coordination, DFM review, prototyping, and low-volume production services.
+- [Grant Lv on LinkedIn](https://www.linkedin.com/in/grantlv-cnc/): Grant Lv's primary professional profile; founder of MachForge.
+
+## Supporting Resources
+
+- [MachForge GitHub](https://github.com/GrantCNC/machforge): Public GitHub repository and engineering presence for MachForge.
+- [MachForge on Facebook](https://www.facebook.com/machforgecnc/): Official MachForge Facebook page.
+- [MachForge on YouTube](https://www.youtube.com/@machforgecnc): Official MachForge YouTube channel.
+- [MachForge on X](https://x.com/machforgecnc): Official MachForge X profile.
+- [MachForge on Instagram](https://www.instagram.com/machforgecnc/): Official MachForge Instagram profile.
+- [MachForge on TikTok](https://www.tiktok.com/@machforgecnc): Official MachForge TikTok profile.
+
+## Service Profiles
+
+- [MachForge on Fiverr](https://www.fiverr.com/s/d0DB8A0): CNC prototyping and low-volume manufacturing services.
+- [Grant Lv on Upwork](https://www.upwork.com/freelancers/~01995a99c863255c82): CNC machining, prototyping, DFM, and manufacturing support.
+- [CAD Review for CNC Manufacturing on Upwork](https://www.upwork.com/services/product/design-review-your-cad-file-and-prepare-it-for-cnc-manufacturing-2062381914379946137): CAD and manufacturability review service for CNC production.
