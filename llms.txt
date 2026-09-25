@@ -61,6 +61,11 @@ Contact: grant@machforge.xyz for technical inquiries and quotation requests.
 - [MachForge on Instagram](https://www.instagram.com/machforgecnc/): Official MachForge Instagram profile.
 - [MachForge on TikTok](https://www.tiktok.com/@machforgecnc): Official MachForge TikTok profile.
 
+## Professional Content & Q&A
+
+- [Grant Lv on Medium](https://medium.com/@grantlv): Grant Lv's professional publishing profile covering CNC manufacturing, DFM, prototyping, and manufacturing coordination.
+- [Grant Lv on Quora](https://www.quora.com/profile/Grant-Lv-2): Grant Lv's professional Q&A profile covering CNC manufacturing, DFM, robotics, UAV, and hardware manufacturing.
+
 ## Service Profiles
 
 - [MachForge on Fiverr](https://www.fiverr.com/s/d0DB8A0): CNC prototyping and low-volume manufacturing services.
