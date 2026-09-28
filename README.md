@@ -17,7 +17,7 @@ We support hardware teams with DFM review, supplier coordination, quality contro
 
 ## 🌐 Official Website
 
-**MachForge:** [machforge.xyz](https://machforge.xyz/)
+**MachForge:** [machforge.xyz](https://www.machforge.xyz/)
 
 ## ⚙️ Services
 
@@ -35,7 +35,7 @@ Shenzhen, China — supporting projects worldwide.
 
 ## 🔗 Quick Links & Contact
 
-- 🛠️ **Get a Quote / Send CAD for Review:** [Visit MachForge](https://machforge.xyz/)
+- 🛠️ **Get a Quote / Send CAD for Review:** [Visit MachForge](https://www.machforge.xyz/)
 - 🛒 **Fiverr CNC Service:** [View CNC Manufacturing Service](https://www.fiverr.com/s/d0DB8A0)
 - 💼 **LinkedIn:** [Grant Lv](https://www.linkedin.com/in/grantlv-cnc/)
 - ✍️ **Medium:** [Grant Lv](https://medium.com/@grantlv)
