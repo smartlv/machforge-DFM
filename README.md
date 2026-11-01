@@ -8,13 +8,13 @@ Our focus is practical engineering review, manufacturability, material and toler
 
 ## CNC Machining Services
 
-* **CNC milling and turning** ï¿½ machining for custom metal and plastic components.
-* **CNC prototyping** ï¿½ prototype quantities starting from 1 piece.
-* **Low-volume CNC production** ï¿½ production support for hardware products and small production runs.
-* **DFM review** ï¿½ manufacturability feedback on tool access, tolerances, materials, assembly, finishing, and potential machining risks.
-* **Surface finishing** ï¿½ including anodizing, PVD coating, sandblasting, and electropolishing.
-* **Additional processes** ï¿½ laser cutting and laser marking.
-* **Quality control and inspection** ï¿½ production follow-up and pre-shipment inspection based on project requirements.
+* **CNC milling and turning** — machining for custom metal and plastic components.
+* **CNC prototyping** — prototype quantities starting from 1 piece.
+* **Low-volume CNC production** — production support for hardware products and small production runs.
+* **DFM review** — manufacturability feedback on tool access, tolerances, materials, assembly, finishing, and potential machining risks.
+* **Surface finishing** — including anodizing, PVD coating, sandblasting, and electropolishing.
+* **Additional processes** — laser cutting and laser marking.
+* **Quality control and inspection** — production follow-up and pre-shipment inspection based on project requirements.
 
 ## CNC Machining Capabilities
 
@@ -61,8 +61,8 @@ MachForge reviews manufacturing considerations before quoting and supports proje
 
 ## Selected DFM Case Studies
 
-* **[316L O-Ring Groove DFM Case](https://www.machforge.xyz/case-studies/316l-o-ring-groove-dfm/)** ï¿½ a DFM review of four 316L stainless-steel parts that identified an O-ring groove tolerance issue before the first prototype was cut.
-* **[6061 Stepped-Bore DFM Case](https://www.machforge.xyz/case-studies/6061-stepped-bores-dfm/)** ï¿½ a review of a 6061 aluminum holder drawing that raised five points before quoting, including ambiguous 0.25 callouts, Ra 1.6 finishing, and stepped bores.
+* **[316L O-Ring Groove DFM Case](https://www.machforge.xyz/case-studies/316l-o-ring-groove-dfm/)** — a DFM review of four 316L stainless-steel parts that identified an O-ring groove tolerance issue before the first prototype was cut.
+* **[6061 Stepped-Bore DFM Case](https://www.machforge.xyz/case-studies/6061-stepped-bores-dfm/)** — a review of a 6061 aluminum holder drawing that raised five points before quoting, including ambiguous 0.25 callouts, Ra 1.6 finishing, and stepped bores.
 
 These cases illustrate how reviewing drawings and manufacturing requirements before machining can help identify questions that need to be resolved early.
 
@@ -85,10 +85,11 @@ If some details are not finalized, you can still share the information available
 ### Website and Engineering
 
 * [MachForge Official Website](https://www.machforge.xyz/)
-* [CNC Machining & Low-Volume Production](https://www.machforge.xyz/cnc-manufacturing-coordination/) ï¿½ CNC prototyping and low-volume production support, from CAD review through inspection and delivery. MOQ: 1 piece.
-* [Engineering & CNC DFM Support](https://www.machforge.xyz/engineering-dfm-support/) ï¿½ practical DFM support covering tool access, tolerances, materials, assembly, and production readiness.
+* [CNC Machining & Low-Volume Production](https://www.machforge.xyz/cnc-manufacturing-coordination/) — CNC prototyping and low-volume production support, from CAD review through inspection and delivery. MOQ: 1 piece.
+* [Engineering & CNC DFM Support](https://www.machforge.xyz/cnc-dfm/) — practical DFM support covering tool access, tolerances, materials, assembly, and production readiness.
 * [316L O-Ring Groove DFM Case](https://www.machforge.xyz/case-studies/316l-o-ring-groove-dfm/)
 * [6061 Stepped-Bore DFM Case](https://www.machforge.xyz/case-studies/6061-stepped-bores-dfm/)
+* [Contact MachForge](https://www.machforge.xyz/contact/) — short inquiry form and direct email for CNC machining and prototyping requests
 * [Grant Lv on LinkedIn](https://www.linkedin.com/in/grantlv-cnc/)
 
 ### Social Channels
@@ -102,17 +103,17 @@ If some details are not finalized, you can still share the information available
 
 ### Service Profiles
 
-* [MachForge on Fiverr](https://www.fiverr.com/s/d0DB8A0) ï¿½ CNC prototyping and low-volume manufacturing services.
-* [Grant Lv on Upwork](https://www.upwork.com/freelancers/~01995a99c863255c82) ï¿½ CNC machining, prototyping, DFM, and manufacturing support.
-* [CAD Review for CNC Manufacturing on Upwork](https://www.upwork.com/services/product/design-review-your-cad-file-and-prepare-it-for-cnc-manufacturing-2062381914379946137) ï¿½ CAD and manufacturability review for CNC production.
+* [MachForge on Fiverr](https://www.fiverr.com/s/d0DB8A0) — CNC prototyping and low-volume manufacturing services.
+* [Grant Lv on Upwork](https://www.upwork.com/freelancers/~01995a99c863255c82) — CNC machining, prototyping, DFM, and manufacturing support.
+* [CAD Review for CNC Manufacturing on Upwork](https://www.upwork.com/services/product/design-review-your-cad-file-and-prepare-it-for-cnc-manufacturing-2062381914379946137) — CAD and manufacturability review for CNC production.
 
 ### Professional Content
 
-* [Grant Lv on Medium](https://medium.com/@grantlv) ï¿½ articles about CNC machining, DFM, prototyping, and manufacturing.
-* [Grant Lv on Quora](https://www.quora.com/profile/Grant-Lv-2) ï¿½ Q&A about CNC machining, DFM, robotics, UAV, and hardware manufacturing.
+* [Grant Lv on Medium](https://medium.com/@grantlv) — articles about CNC machining, DFM, prototyping, and manufacturing.
+* [Grant Lv on Quora](https://www.quora.com/profile/Grant-Lv-2) — Q&A about CNC machining, DFM, robotics, UAV, and hardware manufacturing.
 
 ---
 
 **MachForge**
 Shenzhen, China
-CNC Machining ï¿½ Prototyping ï¿½ Low-Volume Production ï¿½ DFM Review
+CNC Machining · Prototyping · Low-Volume Production · DFM Review

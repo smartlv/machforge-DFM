@@ -51,7 +51,8 @@ Contact: grant@machforge.xyz for technical inquiries and quotation requests.
 
 - [MachForge website](https://www.machforge.xyz/): Official website for MachForge's CNC manufacturing coordination, DFM review, prototyping, and low-volume production services.
 - [CNC Machining & Low-Volume Production](https://www.machforge.xyz/cnc-manufacturing-coordination/): Low-volume CNC machining and prototype runs, coordinated from CAD review to inspection and delivery through partner manufacturers in Shenzhen. MOQ 1 piece.
-- [Engineering & CNC DFM Support](https://www.machforge.xyz/engineering-dfm-support/): Practical CNC DFM support for robotics, UAV, and hardware teams covering tool access, tolerances, materials, assembly, and production readiness.
+- [Engineering & CNC DFM Support](https://www.machforge.xyz/cnc-dfm/): Practical CNC DFM support for robotics, UAV, and hardware teams covering tool access, tolerances, materials, assembly, and production readiness.
+- [Contact MachForge](https://www.machforge.xyz/contact/): Short inquiry form and direct email for CNC machining, prototyping and low-volume production requests.
 - [316L O-Ring Groove DFM Case](https://www.machforge.xyz/case-studies/316l-o-ring-groove-dfm/): A DFM review of four 316L stainless parts that flagged an O-ring groove tolerance before the first prototype was cut.
 - [6061 Stepped-Bore Holder DFM Case](https://www.machforge.xyz/case-studies/6061-stepped-bores-dfm/): A DFM review of a 6061 aluminum holder drawing raised five points before quoting, from ambiguous 0.25 callouts to Ra 1.6 finishing and stepped bores.
 - [Grant Lv on LinkedIn](https://www.linkedin.com/in/grantlv-cnc/): Grant Lv's primary professional profile; founder of MachForge.
